@@ -5,4 +5,4 @@
 - 🔭 I’m currently working Cyber Security related software
 - 🌱 I’m currently learning about Cloud Techologies, Distributed Systems and Infrastructure as Code
 - 💬 Ask me about Cyber Security, Backend software development
-- 📫 How to reach me: [Dev Profile](https://dev.to/miguelhdezsob)
+- 📫 For more information about my work backround, see [Polywork](https://www.polywork.com/miguelh)
